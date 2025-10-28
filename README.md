@@ -1,4 +1,4 @@
-# Power BI Data Job Dashboard — Without Power Query
+# Power BI Data Job Dashboard 
 
 A polished, production-ready Power BI report analyzing job market data at scale (~500K rows) **without using Power Query**. All data shaping and logic are performed via DAX and Power BI data modeling. The repository includes the dashboard `.pbix` file, a dataset link, and a demo GIF showing live interactions and visuals.
 
